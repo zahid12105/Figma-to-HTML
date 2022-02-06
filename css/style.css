@@ -177,7 +177,7 @@ header {
   Feature Style Start 
 --------------------- */
 #feature {
-  padding: 0 0 50px;
+  padding: 50px 0 50px;
 }
 #feature h2 {
   font-weight: bold;
@@ -330,7 +330,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 0px 105px 70px;
+  margin: 0px 84px 70px;
 }
 .copyright p {
   max-width: 360px;
